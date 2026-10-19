@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ha%20HeonHwi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Student%20Developer%20%7C%20Building%20Practical%20Web%2C%20App%20and%20AI%20Services&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ha%20HeonHwi&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20%C2%B7%20AI%20Developer%20%7C%20heonhwi.dev&descAlignY=58&descSize=18)
 
-### 👋 안녕하세요! 개발자 **하헌휘 (heonhwi)** 입니다.
-> **"일상의 불편함을 발견하고, 직접 동작하는 서비스와 도구로 해결합니다."**
+### 👋 안녕하세요! 개발자 **하헌휘 (Ha HeonHwi)** 입니다.
+> **"일상의 불편함을 발견하고, 직접 동작하는 서버와 AI 서비스로 해결합니다."**
 
-🏫 **대구소프트웨어마이스터고등학교 (DGSW)** 재학<br/>
-💻 **Backend (Spring) · Web Frontend · macOS App · Multi-Agent AI**에 관심이 많습니다.<br/>
-🚀 아이디어 기획부터 배포까지 직접 부딪히며 성장하고 있습니다.
+🏫 **대구소프트웨어마이스터고등학교 (DGSW)** 백엔드 · AI 전공<br/>
+💻 **Java · Spring Boot**와 **Python · FastAPI**로 서버와 AI 서비스를 만듭니다.<br/>
+🌐 Portfolio: **[heonhwi.dev](https://heonhwi.dev)**
 
 <br/>
 
@@ -27,10 +27,12 @@
 
 #### **Frameworks, Libraries & Tools**
 ![Spring](https://skillicons.dev/icons?i=spring&theme=dark)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
 ![Electron](https://skillicons.dev/icons?i=electron&theme=dark)
 ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
+![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)
 ![Netlify](https://skillicons.dev/icons?i=netlify&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
@@ -51,6 +53,7 @@
 
 ### 📫 Contact & Channels
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heonhwi.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:3h@heonhwi.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/heonhwi_ha)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com)
