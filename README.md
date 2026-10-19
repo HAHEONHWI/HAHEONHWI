@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ha%20HeonHwi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Building%20Practical%20Web%2C%20App%20and%20AI%20Services&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=heonhwi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Student%20Developer%20%7C%20Building%20Practical%20Web%2C%20App%20and%20AI%20Services&descAlignY=58&descSize=18)
 
 ### 👋 안녕하세요! 개발자 **하헌휘 (heonhwi)** 입니다.
 > **"일상의 불편함을 발견하고, 직접 동작하는 서비스와 도구로 해결합니다."**
@@ -51,10 +51,10 @@
 
 ### 📫 Contact & Channels
 
-[![Email](https://img.shields.io/badge/Email-3h%40heonhwi.dev-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:3h@heonhwi.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-%40heonhwi__ha-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/heonhwi_ha)
-[![Discord](https://img.shields.io/badge/Discord-he0nhw1-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HAHEONHWI-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HAHEONHWI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:3h@heonhwi.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/heonhwi_ha)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HAHEONHWI)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
