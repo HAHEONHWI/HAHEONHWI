@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=heonhwi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Student%20Developer%20%7C%20Building%20Practical%20Web%2C%20App%20and%20AI%20Services&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ha%20HeonHwi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Building%20Practical%20Web%2C%20App%20and%20AI%20Services&descAlignY=58&descSize=18)
 
 ### 👋 안녕하세요! 개발자 **하헌휘 (heonhwi)** 입니다.
 > **"일상의 불편함을 발견하고, 직접 동작하는 서비스와 도구로 해결합니다."**
