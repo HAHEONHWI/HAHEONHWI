@@ -21,16 +21,7 @@
 **대구소프트웨어마이스터고등학교(DGSW)** 에서 백엔드와 AI를 전공하고 있습니다.<br/>
 **Java · Spring Boot**와 **Python · FastAPI**로 서버를 설계하고, LLM 파이프라인 연동부터 웹·모바일 클라이언트까지 필요한 서비스를 직접 끝까지 만듭니다.
 
-```json
-{
-  "name": "하헌휘 (Ha HeonHwi)",
-  "role": "Backend · AI Developer",
-  "school": "Daegu Software Meister High School (DGSW)",
-  "focus": ["Java", "Spring Boot", "Python", "FastAPI", "Multi-Agent AI"],
-  "portfolio": "https://heonhwi.dev",
-  "googlePlay": "3hDev"
-}
-```
+
 
 <br/>
 
